@@ -1,4 +1,6 @@
 # DL- Convolutional Autoencoder for Image Denoising
+## Name: ALDRIN S
+## Register Number: 212223240005
 
 ## AIM
 To develop a convolutional autoencoder for image denoising application.
